@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryavila&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
-<h3 align="left"> 💌 Contato </h3>
+<h3 align="left">  Contato </h3>
 
 <a href="https://www.linkedin.com/in/eduarda-barroscb/" style="text-decoration: none;">
   <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="margin-right: 40px;" />
