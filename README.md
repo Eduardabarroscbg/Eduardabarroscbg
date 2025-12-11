@@ -44,17 +44,7 @@
   <img align="center" alt="mary-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mary-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mary-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-
-  <h2>⋆｡‧°ʚ🍒ɞ°‧｡⋆Data Base</h2>
-  <img align="center" alt="mary-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-  <h2>⭒ː͡➘₊̣̇⚔️ː͡➘₊̣̇Cybersecurity Tools</h2>
-  <img align="center" alt="mary-Kali" height="70" width="70" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000"/>
-
-  <h2>꒰ 🥥 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
-  <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
- 
-  
+   
   # 🍰࣪˖ / 💌 ꒰ How to contact me ꒱ ᘏ (🌷) 
 
   <!-- Ícone LinkedIn estilo imagem -->
