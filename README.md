@@ -10,7 +10,7 @@
 
 <p align="left">🌍 Sou da Paraíba, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Aspirante a Front-end com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
-<h3 align="left"> Linguagens e Ferramentas</h3>
+<h3 align="left">Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
