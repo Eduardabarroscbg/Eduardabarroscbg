@@ -55,10 +55,10 @@
  <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
  em parceria com a Artemisia.  
  Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
- <br><br>
+ <br>
  • ✔️ Inscrição e validação de perfil<br>
  • ✔️ Curso digital da trilha Front-end<br>
- • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br><br>
+ • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br>
 
  Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
  • HTML<br>
