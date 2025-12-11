@@ -66,8 +66,8 @@
     <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-left: 10px; margin-right: 40px;" />
   </a>
 
-<a href="mailto:eduarda10.barros@gmail.com" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank" style="text-decoration: none;">
+  <img src="https://imgur.com/s3EST1a.png" alt="E-mail" />
 </a>
 
 
