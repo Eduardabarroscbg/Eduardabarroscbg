@@ -47,14 +47,29 @@
 
 <h3 align="left">Bootcamps e Programas</h3>
 
-<p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
+<p align="left">Atualmente faço parte do seguinte programa de capacitação:</p>
 
 <div align="left">
- 📊 <b>&lt;Hello, ONE!&gt; </b> - Oracle + Alura<br>
- 📈 <b>EY Empodera [Eu Capacito]</b> - Ernst & Young + FIAP<br>
- 🎓 <b>DIO Campus Expert</b> - Embaixadores DIO<br>
- ☕ <b>Bootcamp Java Developer</b> - DIO<br>
- ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - DIO<br>
+ 🎉 <b>Elas+ Tech — Ada Tech</b><br>
+ Programa exclusivo para mulheres, selecionado entre os projetos piloto do
+ <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
+ em parceria com a Artemisia.  
+ Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
+ <br><br>
+ • ✔️ Inscrição e validação de perfil<br>
+ • ✔️ Curso digital da trilha Front-end<br>
+ • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br><br>
+
+ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
+ • HTML<br>
+ • CSS<br>
+ • Git e versionamento<br>
+ • Lógica de Programação com JavaScript<br>
+ • Desenvolvimento Web com JavaScript<br>
+ • React<br>
+ • Figma para Devs<br><br>
+
+ Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
 </div>
 
 <div align="center">
