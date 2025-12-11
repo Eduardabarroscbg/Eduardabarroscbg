@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
-<div>
-<div>
-  
-## 🎀 ៸៸ ꒰ 👩🏻‍💻 tech girl ꒱ 彡 ·˚
+###
+
+<h2 align="center">&lt;Olá, eu sou a Suiane Henrichs!/&gt;</h2>
+
+###
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6897&width=435&lines=Hello,+I+am+Mariany+%C3%81vila!;But+you+can+call+me+Mary+;I'm+21+years+old;I'm+a+Software+Development+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
 </div>
