@@ -44,6 +44,7 @@
   <img align="center" alt="mary-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mary-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mary-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  </h2>
    
   # 🍰࣪˖ / 💌 ꒰ How to contact me ꒱ ᘏ (🌷) 
 
