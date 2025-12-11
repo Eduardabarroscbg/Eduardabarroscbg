@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-###
+
 
 <h2 align="center">&lt;Olá, eu sou a Eduarda Barros!/&gt;</h2>
 
@@ -11,19 +11,80 @@
   </a>
 </div>
 ## 
-🕯️. ‘ + * Oi! Meu nome é Mariany e sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre). 
+###
 
-✩°｡🦦 Sou apaixonada por Cibersegurança, especialmente a área ofensiva, e estou sempre buscando aprender como as coisas funcionam "por trás das telas" 
 
-⋆.˚🦋༘⋆ Atualmente, estou estudando Java e MySQL, mas também tenho experiência com HTML, CSS, JavaScript, Python e Ruby. 
 
-・.♛ Tenho o sonho de um dia trabalhar com segurança ofensiva, ajudando a tornar o mundo digital mais seguro, criativo e acessível. Também quero explorar o desenvolvimento web e mobile com foco em segurança!
+<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
-‧₊⊹ Sempre estou estudando e evoluindo — inclusive faço cursos online e adoro aprender novos idiomas. No momento, estudo francês, italiano e japonês!
+###
 
-*ੈ‧₊˚🎮 Fora do mundo tech, amo jogar jogos online, ouvir música e tocar instrumentos (guitarra, teclado, violão, escaleta... a lista vai longe).
+<h3 align="left"> Linguagens e Ferramentas</h3>
 
-⬪:˵ˊ✨ Sou criativa, curiosa, dedicada e adoro trabalhar em equipe. Acredito que a tecnologia é ainda mais mágica quando é compartilhada.
+###
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">Repositório de Projetos </h3>
+
+###
+
+<p align="left">
+ <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
+ <b>Python</b> - Projetos e desafios em Python<br>
+ <b>SQL</b> - Consultas e banco de dados<br>
+ <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
+ <b>Aprendizado</b> - Anotações e mini-projetos
+</p>
+
+
+###
+
+###
+###
+
+## <h3 align="left"> Bootcamps e Programas </h3>
+
+<p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
+
+
+
+<div align="left">
+ 📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com formação em Data Science e Análise de Dados<br>
+ 📈 <b>EY Empodera [Eu Capacito]</b> - Programa da Ernst & Young em parceria com a Fiap com trilha em Dados<br>
+ 🎓 <b>DIO Campus Expert</b> - Programa de Embaixadores da <a href="https://www.dio.me">Digital Innovation One</a><br>
+ ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
+ ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - Aprendizado sobre computação em nuvem na <a href="https://www.dio.me">DIO</a><br>
+ 
+</div>
+
 
 
 <div align="center">
