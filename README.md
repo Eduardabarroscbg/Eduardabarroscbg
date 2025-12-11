@@ -71,12 +71,6 @@
 
  Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryavila&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryavila&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
 <h3 align="left">  Contato </h3>
 
 <a href="https://www.linkedin.com/in/eduarda-barroscb/" style="text-decoration: none;">
