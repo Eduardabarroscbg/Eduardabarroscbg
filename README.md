@@ -22,7 +22,7 @@
 <p align="left">
   🌍 Sou da Paraíba, Brasil<br>
   🎓 Estudante de Ciência da Computação (7º período)<br>
-  ⚡ Aspirante a Front-end com interesse em Desenvolvimento Web e Software<br>
+  ⚡ Desenvolvedora Front-end em formação, com interesse em Desenvolvimento Web e Software<br>
   🎯 Foco em HTML, CSS, JavaScript e TypeScript<br>
   ✨ Criando projetos para aprimorar minhas habilidades
 </p>
