@@ -66,6 +66,13 @@
   </a>
 
 📧 Email: [eduarda10.barros@gmail.com](https://mail.google.com/mail/?view=cm&to=eduarda10.barros@gmail.com)
+<a href="https://www.linkedin.com/in/eduarda-barros-goncalves" style="text-decoration: none; outline: none; border: none;">
+  <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
+</a>
+
+<a href="mailto:eduarda10.barros@gmail.com" style="text-decoration: none; outline: none; border: none;">
+  <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
+</a>
 
 
 </div>
