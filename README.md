@@ -61,7 +61,7 @@
 <p align="left">Atualmente faço parte do seguinte programa de capacitação:</p>
 
 <div align="left">
- 🎉 <b>Elas+ Tech — Ada Tech</b><br>
+ 💚 <b>Elas+ Tech — Ada Tech</b><br>
  Programa exclusivo para mulheres, selecionado entre os projetos piloto do
  <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
  em parceria com a Artemisia.  
