@@ -69,9 +69,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.tiktok.com/@maryaviladeveloper">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
+
 </div>
 
 
