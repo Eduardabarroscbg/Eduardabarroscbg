@@ -65,9 +65,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-<a href="mailto:eduarda10.barros@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+📧 Email: [eduarda10.barros@gmail.com](https://mail.google.com/mail/?view=cm&to=eduarda10.barros@gmail.com)
 
 
 </div>
