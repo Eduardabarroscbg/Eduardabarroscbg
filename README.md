@@ -82,14 +82,4 @@
 
  Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
 </div>
-<h3 align="left">  Contato </h3>
 
-<a href="https://www.linkedin.com/in/eduarda-barroscb/" style="text-decoration: none;">
-  <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="margin-right: 40px;" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank">
-  <img src="https://imgur.com/s3EST1a.png" alt="E-mail" />
-</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
