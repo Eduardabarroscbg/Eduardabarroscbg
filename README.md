@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<p align="left">🌍 Sou da Paraíba, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Aspirante a Front-end com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 <h3 align="left"> Linguagens e Ferramentas</h3>
 
