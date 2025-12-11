@@ -17,10 +17,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank">
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
-
-  <a href="https://www.notion.so" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" height="40" />
-  </a>
 </div>
 
 <p align="left">🌍 Sou da Paraíba, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Aspirante a Front-end com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript e TypeScript<br>✨ Criando projetos para aprimorar minhas habilidades</p>
