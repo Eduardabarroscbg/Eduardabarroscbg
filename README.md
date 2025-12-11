@@ -60,27 +60,17 @@
 </div>
   
   # 🍰࣪˖ / 💌 ꒰ How to contact me ꒱ ᘏ (🌷) 
-<div> 
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/eduarda-barroscb/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
   <!-- Ícone LinkedIn estilo imagem -->
   <a href="https://www.linkedin.com/in/eduarda-barroscb/" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-left: 10px; margin-right: 40px;" />
   </a>
 
-  <!-- Ícone E-mail -->
-  <a href="mailto:eduarda10.barros@gmail.com" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
-  </a>
+<a href="mailto:eduarda10.barros@gmail.com" style="text-decoration: none; outline: none; border: none;">
+  <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
+</a>
 
-  <!-- Email de texto clicável -->
-  <p style="margin-top: 8px;">
-    📧 Email: <a href="mailto:eduarda10.barros@gmail.com">eduarda10.barros@gmail.com</a>
-  </p>
-</div>
+
 
 
 
