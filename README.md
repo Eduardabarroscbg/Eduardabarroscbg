@@ -54,7 +54,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://imgur.com/s3EST1a.png" alt="E-mail" />
 </a>
-</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
