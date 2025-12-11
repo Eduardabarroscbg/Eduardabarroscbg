@@ -78,7 +78,7 @@
  • Lógica de Programação com JavaScript<br>
  • Desenvolvimento Web com JavaScript<br>
  • React<br>
- • Figma para Devs<br><br>
+ • Figma para Devs<br>
 Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
 </div>
 
