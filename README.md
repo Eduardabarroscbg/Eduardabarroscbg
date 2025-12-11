@@ -58,7 +58,7 @@
  <br>
  • ✔️ Inscrição e validação de perfil<br>
  • ✔️ Curso digital da trilha Front-end<br>
- • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br>
+ • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br>,br>
 
  Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
  • HTML<br>
