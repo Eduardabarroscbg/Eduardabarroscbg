@@ -81,4 +81,5 @@
  • Figma para Devs<br>
 Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
