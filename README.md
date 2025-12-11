@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">&lt;Olá, eu sou a Suiane Henrichs!/&gt;</h2>
+<h2 align="center">&lt;Olá, eu sou a Eduarda Barros!/&gt;</h2>
 
 ###
 
