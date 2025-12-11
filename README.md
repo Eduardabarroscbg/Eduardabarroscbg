@@ -11,8 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6897&center=true&vCenter=true&width=500&lines=Front-End+Developer" alt="Typing SVG" />
   </a>
 </div>
-
-
 ## 
 🕯️. ‘ + * Oi! Meu nome é Mariany e sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre). 
 
