@@ -79,7 +79,6 @@
  • Desenvolvimento Web com JavaScript<br>
  • React<br>
  • Figma para Devs<br><br>
-
- Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
+Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia. ✨
 </div>
 
