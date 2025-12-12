@@ -96,13 +96,14 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
 </p>
 
-<div align="center">
+<div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardaBarrosCBG&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" 
     height="135" 
     alt="languages graph"
   />
 </div>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
