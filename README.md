@@ -98,15 +98,9 @@
  • Figma para Devs<br><br>
 Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
 </div>
-<!-- 📊 ESTATÍSTICAS DO GITHUB -->
-<h3 align="left">Estatísticas</h3>
 
+<!-- 📊 Gráfico de Linguagens -->
 <div align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaBarrosCBG&layout=compact&langs_count=8&theme=tokyonight"
@@ -114,6 +108,7 @@ Sempre em busca de novos desafios para evoluir como desenvolvedora e construir u
 </div>
 
 <br/>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
