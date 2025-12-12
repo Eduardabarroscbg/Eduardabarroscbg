@@ -98,14 +98,15 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
 
 <div align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardaBarrosCBG&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardaBarrosCBG&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&title_color=ff91a4&text_color=ff91a4&icon_color=ff91a4" 
     height="135" 
     alt="languages graph"
   />
 </div>
+
 <div align="right">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&theme=rose_pine&hide_border=false&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&hide_title=true&theme=dracula&hide_border=false&title_color=ff91a4&text_color=ff91a4&icon_color=ff91a4"
     height="150"
   />
 </div>
