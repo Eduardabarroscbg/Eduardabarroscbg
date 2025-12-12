@@ -105,9 +105,8 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
 </div>
 <div align="right">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&hide_title=true&rank_icon=github&theme=ambient_gradient&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&theme=rose_pine&hide_border=false&hide_title=true"
     height="150"
-    alt="stats graph"
   />
 </div>
 
