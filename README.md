@@ -88,10 +88,14 @@
  • ✔️ Curso digital da trilha Front-end<br>
  • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br><br>
 
- Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
- • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,Desenvolvimento Web com JavaScript,React,Figma para Devs<br>
+Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
+• HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript, Desenvolvimento Web com JavaScript, React, Figma para Devs<br>
 </div>
-<br>Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.</div><br><br>
+
+<p align="left">
+  Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
+</p>
+
 <!-- 📊 Gráfico de Linguagens -->
 <div align="center">
   <img
@@ -102,6 +106,4 @@
 
 <br/>
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
