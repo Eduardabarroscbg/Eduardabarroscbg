@@ -96,4 +96,38 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
 </p>
 
+<h3 align="left">Status do GitHub</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <!-- Gráfico 1 (Linguagens) -->
+      <img
+        height="150"
+        alt="Top Languages"
+        src="https://github-readme-stats-git-master-eduardabarroscbg.vercel.app/api/top-langs/?username=eduardabarroscbg&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=f7c5e7&hide_border=true"
+      />
+    </td>
+
+    <td>
+      <!-- Gráfico 2 (Stats) -->
+      <img
+        height="150"
+        alt="GitHub Stats"
+        src="https://github-readme-stats-git-master-eduardabarroscbg.vercel.app/api?username=eduardabarroscbg&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=f7c5e7&hide_border=true"
+      />
+    </td>
+
+    <td>
+      <!-- Gráfico 3 (Streak - pequeno) -->
+      <img
+        height="150"
+        alt="Streak Stats"
+        src="https://streak-stats.demolab.com/?user=eduardabarroscbg&background=f7c5e7&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&dates=ffffff&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
