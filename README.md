@@ -95,21 +95,32 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
 <p align="left">
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
 </p>
-
 <table>
   <tr>
     <td>
+      <!-- Gráfico 1 (Esquerda) -->
       <img
         height="150"
         alt="Top Languages"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaBarrosCBG&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=f7c5e7&hide_border=true"
       />
     </td>
+
     <td>
+      <!-- Gráfico 2 (Meio) -->
       <img
         height="150"
         alt="GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&hide_title=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=f7c5e7&hide_border=true"
+      />
+    </td>
+
+    <td>
+      <!-- Gráfico 3 (Direita / pequeno) -->
+      <img
+        height="120"
+        alt="Streak Stats"
+        src="https://streak-stats.demolab.com/?user=EduardaBarrosCBG&theme=default&background=f7c5e7&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&dates=ffffff&hide_border=true"
       />
     </td>
   </tr>
