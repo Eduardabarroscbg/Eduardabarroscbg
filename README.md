@@ -91,7 +91,7 @@
  Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
  • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,Desenvolvimento Web com JavaScript,React,Figma para Devs<br>
 </div>
-<br>Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.</div>br>
+<br>Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.</div><br>
 <!-- 📊 Gráfico de Linguagens -->
 <div align="center">
   <img
