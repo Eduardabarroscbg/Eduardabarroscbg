@@ -103,6 +103,13 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
     alt="languages graph"
   />
 </div>
+<div align="right">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=EduardaBarrosCBG&show_icons=true&hide_title=true&rank_icon=github&theme=ambient_gradient&hide_border=false"
+    height="150"
+    alt="stats graph"
+  />
+</div>
 
 
 
