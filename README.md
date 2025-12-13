@@ -17,9 +17,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank">
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
-   <a href="https://gitlab.com/eduardabarroscbg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="40" style="margin-right: 20px;" />
+<a href="https://gitlab.com/eduardabarroscbg" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/ff91a4/gitlab.png" alt="GitLab" height="40" style="margin-right: 20px;" />
 </a>
+
 
 </div>
 
