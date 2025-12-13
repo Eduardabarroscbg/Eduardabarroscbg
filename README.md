@@ -109,7 +109,6 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
         src="https://github-readme-stats.vercel.app/api?username=eduardabarroscbg&show_icons=true&bg_color=f7c5e7&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
       />
     </td>
-    <td>
   </tr>
 </table>
 
