@@ -17,16 +17,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank">
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
-
-<a href="https://gitlab.com/eduarda10.barros" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" 
-       alt="GitLab" 
-       height="40" 
-       style="margin-right: 20px; filter: brightness(0) saturate(100%) invert(95%) sepia(7%) saturate(7455%) hue-rotate(320deg) brightness(102%) contrast(101%);" />
-</a>
-
-
-
 </div>
 
 
