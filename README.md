@@ -110,10 +110,6 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
       />
     </td>
     <td>
-      <img height="150"
-        src="https://streak-stats.demolab.com?user=eduardabarroscbg&background=f7c5e7&hide_border=true"
-      />
-    </td>
   </tr>
 </table>
 
