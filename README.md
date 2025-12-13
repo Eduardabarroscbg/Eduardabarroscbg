@@ -100,7 +100,11 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabarroscbg&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=f7c5e7&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardabarroscbg&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=f7c5e7&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=eduardabarroscbg&background=f7c5e7&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&dates=ffffff&hide_border=true" />
+ <img
+  height="150"
+  src="https://streak-stats.demolab.com?user=eduardabarroscbg&theme=default&background=f7c5e7&hide_border=true"
+/>
+
 </div>
 
 
