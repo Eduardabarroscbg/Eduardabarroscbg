@@ -96,7 +96,6 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
 </p>
 
-<h3 align="left">Status do GitHub</h3>
 
 <table align="center">
   <tr>
