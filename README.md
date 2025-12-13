@@ -17,15 +17,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda10.barros@gmail.com" target="_blank">
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
-<a href="https://gitlab.com/eduarda10.barros" target="_blank">
-  <img src="https://i.imgur.com/fqZ7mJf.png" alt="GitLab" height="40" style="margin-right: 20px;" />
-</a>
-
-
-
-
-
-
 </div>
 
 
