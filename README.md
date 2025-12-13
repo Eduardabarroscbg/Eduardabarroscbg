@@ -18,8 +18,8 @@
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
  <a href="https://gitlab.com/eduarda10.barros" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="40" style="margin-right: 20px; filter: invert(49%) sepia(47%) saturate(600%) hue-rotate(320deg) brightness(98%) contrast(92%);" />
-  </a>
+  <img src="https://img.shields.io/badge/GitLab-FF91A4?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="40" style="margin-right: 20px;" />
+</a>
 
 </a>
 
