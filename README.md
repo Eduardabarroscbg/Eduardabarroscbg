@@ -18,9 +18,9 @@
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
 <a href="https://gitlab.com/eduarda10.barros" target="_blank">
-  <svg height="40" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#FF91A4" d="M128 0l-128 256h256z"/>
-  </svg>
+  <img src="https://img.shields.io/badge/GitLab-FF91A4?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="40" />
+</a>
+
 </a>
 
 
