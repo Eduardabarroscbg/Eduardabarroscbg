@@ -18,7 +18,7 @@
     <img src="https://imgur.com/s3EST1a.png" alt="Email" height="40" style="margin-right: 20px;" />
   </a>
 <a href="https://gitlab.com/eduarda10.barros" target="_blank">
-  <img src="https://i.imgur.com/ZJYx5dz.png" alt="GitLab" height="40" style="margin-right: 20px;" />
+  <img src="https://i.imgur.com/fqZ7mJf.png" alt="GitLab" height="40" style="margin-right: 20px;" />
 </a>
 
 
