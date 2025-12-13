@@ -102,17 +102,17 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
   <tr>
     <td>
       <img height="150"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabarroscbg&layout=compact&bg_color=FFA07A&title_color=ffffff&text_color=ffffff&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabarroscbg&layout=compact&bg_color=FFC0CB&title_color=ffffff&text_color=ffffff&hide_border=true"
       />
     </td>
     <td>
       <img height="150"
-        src="https://github-readme-stats.vercel.app/api?username=eduardabarroscbg&show_icons=true&bg_color=FFA07A&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=eduardabarroscbg&show_icons=true&bg_color=FFC0CB&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
       />
     </td>
   </tr>
 </table>
->
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
