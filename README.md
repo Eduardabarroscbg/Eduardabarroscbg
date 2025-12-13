@@ -95,5 +95,13 @@ Após ser aprovada, iniciei a trilha de <b>Front-end</b>, estudando:<br>
 <p align="left">
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir uma trajetória sólida na área de tecnologia.
 </p>
+<h3 align="left">Status do GitHub</h3>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabarroscbg&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=f7c5e7&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardabarroscbg&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=f7c5e7&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=eduardabarroscbg&background=f7c5e7&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&dates=ffffff&hide_border=true" />
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
