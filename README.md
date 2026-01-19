@@ -87,7 +87,7 @@
  Após a aprovação, iniciei a trilha de <b>Front-end</b>, estudando:<br>
  • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
  Desenvolvimento Web com JavaScript, React e Figma para Devs.
- <br><br>
+ <br>
 
  💜 <b>Bootcamp Avanti — UX Design (2026)</b><br>
  Atualmente participo do Bootcamp da <b>Avanti</b>, com foco em <b>UX Design</b>,
