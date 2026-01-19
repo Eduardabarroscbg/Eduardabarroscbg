@@ -83,9 +83,6 @@
  em parceria com a Artemisia.  
  Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
  <br>
- • ✔️ Inscrição e validação de perfil<br>
- • ✔️ Curso digital da trilha Front-end<br>
- • ✔️ TAT + avaliação com o CAIO (IA generativa da Ada)<br><br>
 
  Após a aprovação, iniciei a trilha de <b>Front-end</b>, estudando:<br>
  • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
