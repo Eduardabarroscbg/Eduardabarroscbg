@@ -89,7 +89,7 @@
  Desenvolvimento Web com JavaScript, React e Figma para Devs.
  <br>
 
- 💜 <b>Bootcamp Avanti — UX Design (2026)</b><br>
+ 💜 <b>Bootcamp Avanti — UX Design (2026.1)</b><br>
  Atualmente participo do Bootcamp da <b>Avanti</b>, com foco em <b>UX Design</b>,
  desenvolvendo habilidades voltadas à experiência do usuário, pesquisa,
  usabilidade, design centrado no usuário e construção de soluções digitais
