@@ -72,7 +72,7 @@
  <b>Organização e Fluxo</b> — Boards, planejamentos e documentação no Trello e Notion<br>
 </p>
 
-<h3 align="left">Bootcamps e Programas</h3>
+h3 align="left">Bootcamps e Programas</h3>
 
 <p align="left">Atualmente faço parte dos seguintes programas de capacitação:</p>
 
@@ -84,9 +84,9 @@
  Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
  <br>
 
- Após a aprovação, iniciei a trilha de <b>Fullstack</b>, estudando:<br>
+ Após a aprovação, iniciei a trilha de <b>Front-end</b>, estudando:<br>
  • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
- Desenvolvimento Web com JavaScript, React, Node.js e Figma para Devs.
+ Desenvolvimento Web com JavaScript, React e Figma para Devs.
  <br>
 
 </div>
@@ -95,5 +95,8 @@
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir
   uma trajetória sólida na área de tecnologia.
 </p>
+
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
