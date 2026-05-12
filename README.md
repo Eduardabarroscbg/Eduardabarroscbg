@@ -80,25 +80,21 @@
 </p>
 
 <div align="left">
- 💚 <b>Elas+ Tech — Ada Tech</b><br>
+  💚 <b>Elas+ Tech — Ada Tech</b><br><br>
 
- Programa exclusivo para mulheres, selecionado entre os projetos piloto do
- <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
- em parceria com a Artemisia.
-  
- Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>.
+  Programa exclusivo para mulheres, selecionado entre os projetos piloto do
+  <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
+  em parceria com a Artemisia.
+  <br><br>
 
- <br><br>
+  Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>.
+  <br><br>
 
- Após a aprovação, iniciei a trilha de <b>Fullstack</b>, estudando:<br>
+  Após a aprovação, iniciei a trilha de <b>Fullstack</b>, estudando:<br><br>
 
- • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
- Desenvolvimento Web com JavaScript, React, Node.js e Figma para Devs.
+  • HTML, CSS, Git e versionamento<br>
+  • Lógica de Programação com JavaScript<br>
+  • Desenvolvimento Web com JavaScript<br>
+  • React e Node.js<br>
+  • Figma para Devs
 </div>
-
-<p align="left">
-  Sempre em busca de novos desafios para evoluir como desenvolvedora e construir
-  uma trajetória sólida na área de tecnologia.
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
