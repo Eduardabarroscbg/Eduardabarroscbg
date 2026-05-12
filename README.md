@@ -64,9 +64,8 @@
 </div>
 
 <h3 align="left">Repositório de Projetos</h3>
-
 <p align="left">
- <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React, Node.js e Tailwind CSS<br>
+ <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React e Tailwind CSS<br>
  <b>Next.js</b> — Projetos com foco em performance, componentização e boas práticas<br>
  <b>Design / UI</b> — Protótipos e layouts criados no Figma<br>
  <b>APIs & Testes</b> — Consumo e testes de APIs usando Postman<br>
@@ -75,26 +74,26 @@
 
 <h3 align="left">Bootcamps e Programas</h3>
 
-<p align="left">
-  Atualmente faço parte dos seguintes programas de capacitação:
-</p>
+<p align="left">Atualmente faço parte dos seguintes programas de capacitação:</p>
 
 <div align="left">
-  💚 <b>Elas+ Tech — Ada Tech</b><br><br>
+ 💚 <b>Elas+ Tech — Ada Tech</b><br>
+ Programa exclusivo para mulheres, selecionado entre os projetos piloto do
+ <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
+ em parceria com a Artemisia.  
+ Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
+ <br>
 
-  Programa exclusivo para mulheres, selecionado entre os projetos piloto do
-  <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
-  em parceria com a Artemisia.
-  <br><br>
+ Após a aprovação, iniciei a trilha de <b>Fullstack</b>, estudando:<br>
+ • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
+ Desenvolvimento Web com JavaScript, React, Node.js e Figma para Devs.
+ <br>
 
-  Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>.
-  <br><br>
-
-  Após a aprovação, iniciei a trilha de <b>Fullstack</b>, estudando:<br><br>
-
-  • HTML, CSS, Git e versionamento<br>
-  • Lógica de Programação com JavaScript<br>
-  • Desenvolvimento Web com JavaScript<br>
-  • React e Node.js<br>
-  • Figma para Devs
 </div>
+
+<p align="left">
+  Sempre em busca de novos desafios para evoluir como desenvolvedora e construir
+  uma trajetória sólida na área de tecnologia.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
