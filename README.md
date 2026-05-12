@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6897&center=true&vCenter=true&width=500&lines=Front-End+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6897&center=true&vCenter=true&width=500&lines=Fullstack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,12 +19,11 @@
   </a>
 </div>
 
-
 <p align="left">
   🌍 Sou da Paraíba, Brasil<br>
   🎓 Estudante de Ciência da Computação (7º período)<br>
-  ⚡ Desenvolvedora Front-end em formação, com interesse em Desenvolvimento Web e Software<br>
-  🎯 Foco em HTML, CSS, JavaScript e TypeScript<br>
+  ⚡ Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web e Software<br>
+  🎯 Foco em HTML, CSS, JavaScript, TypeScript e React<br>
   ✨ Criando projetos para aprimorar minhas habilidades
 </p>
 
@@ -53,19 +52,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="35" />
   <img width="12" />
+  
   <a href="https://gitlab.com/eduarda10.barros" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" />
   </a>
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
 </div>
 
-
 <h3 align="left">Repositório de Projetos</h3>
+
 <p align="left">
- <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React e Tailwind CSS<br>
+ <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React, Node.js e Tailwind CSS<br>
  <b>Next.js</b> — Projetos com foco em performance, componentização e boas práticas<br>
  <b>Design / UI</b> — Protótipos e layouts criados no Figma<br>
  <b>APIs & Testes</b> — Consumo e testes de APIs usando Postman<br>
@@ -74,29 +75,30 @@
 
 <h3 align="left">Bootcamps e Programas</h3>
 
-<p align="left">Atualmente faço parte dos seguintes programas de capacitação:</p>
+<p align="left">
+  Atualmente faço parte dos seguintes programas de capacitação:
+</p>
 
 <div align="left">
  💚 <b>Elas+ Tech — Ada Tech</b><br>
+
  Programa exclusivo para mulheres, selecionado entre os projetos piloto do
  <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
- em parceria com a Artemisia.  
- Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
- <br>
+ em parceria com a Artemisia.
+  
+ Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>.
 
- Após a aprovação, iniciei a trilha de <b>Front-end</b>, estudando:<br>
+ <br><br>
+
+ Após a aprovação, iniciei a trilha de <b>Fullstack</b>, estudando:<br>
+
  • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
- Desenvolvimento Web com JavaScript, React e Figma para Devs.
- <br>
-
+ Desenvolvimento Web com JavaScript, React, Node.js e Figma para Devs.
 </div>
 
 <p align="left">
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir
   uma trajetória sólida na área de tecnologia.
 </p>
-
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
