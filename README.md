@@ -65,7 +65,7 @@
 
 <h3 align="left">Repositório de Projetos</h3>
 <p align="left">
- <b>Front-end</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React e Tailwind CSS<br>
+ <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React e Tailwind CSS<br>
  <b>Next.js</b> — Projetos com foco em performance, componentização e boas práticas<br>
  <b>Design / UI</b> — Protótipos e layouts criados no Figma<br>
  <b>APIs & Testes</b> — Consumo e testes de APIs usando Postman<br>
