@@ -72,7 +72,7 @@
  <b>Organização e Fluxo</b> — Boards, planejamentos e documentação no Trello e Notion<br>
 </p>
 
-h3 align="left">Bootcamps e Programas</h3>
+<h3 align="left">Bootcamps e Programas</h3>
 
 <p align="left">Atualmente faço parte dos seguintes programas de capacitação:</p>
 
