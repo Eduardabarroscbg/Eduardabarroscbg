@@ -39,6 +39,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="35" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" />
@@ -60,17 +64,13 @@
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="35" />
 </div>
 
 <h3 align="left">Repositório de Projetos</h3>
 <p align="left">
  <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React e Tailwind CSS<br>
- <b>Next.js</b> — Projetos com foco em performance, componentização e boas práticas<br>
  <b>Dados & IA</b> — Análise e engenharia de dados com Python e SQL, além de experimentações com Inteligência Artificial<br>
+ <b>Next.js</b> — Projetos com foco em performance, componentização e boas práticas<br>
  <b>Design / UI</b> — Protótipos e layouts criados no Figma<br>
  <b>APIs & Testes</b> — Consumo e testes de APIs usando Postman<br>
  <b>Organização e Fluxo</b> — Boards, planejamentos e documentação no Trello e Notion<br>
@@ -83,13 +83,18 @@
 <div align="left">
 
  🔦 <b>Ciclo Preparatório — Programa Lighthouse (Indicium AI)</b><br>
- Estou no ciclo preparatório do Lighthouse, programa de formação em Dados e Inteligência Artificial da Indicium AI,
- com conteúdos em SQL, Python, lógica analítica, engenharia de dados e IA generativa.
+ O Lighthouse é o programa trainee remunerado da Indicium AI, uma das maiores empresas de dados e IA do mundo,
+ voltado para quem quer começar carreira em Dados, IA ou negócios. Metade das vagas é reservada para mulheres.
+ Estou no Ciclo Preparatório, etapa inicial gratuita e ao vivo, com aulas e quizzes cobrindo SQL, Python,
+ lógica analítica, engenharia de dados, Inteligência Artificial e IA generativa — a base para avançar para a
+ Jornada Técnica remunerada do programa.
  <br><br>
 
  🚀 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
  Assinante do plano <a href="https://www.linkedin.com/in/eduarda-barroscb/details/education/edit/forms/1217716439/">Rocketseat ONE</a>,
- com acesso a formações completas em programação e Inteligência Artificial.
+ com acesso a todas as formações e ao conteúdo contínuo da plataforma. Atualmente estou cursando a
+ <b>Formação em Data Analytics</b>, aprendendo a coletar, tratar e analisar dados com Python e SQL,
+ além de fundamentos de estatística e visualização de dados.
  <br><br>
 
  🤖 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
@@ -97,8 +102,8 @@
  associação que impulsiona a presença feminina na tecnologia.<br>
  Estou no Tech AI Builder, segunda fase do programa, que reúne 5 formações focadas em Inteligência Artificial e Cloud
  (Desenvolvimento e Orquestração com IA Generativa, Engenharia de Agentes e Automação com IA, Inteligência de Dados
- e RAG Avançado, Oracle Cloud Infrastructure e Formação de Nivelamento em IA). Não há ordem obrigatória entre elas,
- então estou começando pela <b>Formação de Nivelamento em IA</b> e seguindo para <b>Inteligência de Dados e RAG Avançado</b>.
+ e RAG Avançado, Oracle Cloud Infrastructure e Formação de Nivelamento em IA). Estou começando pela
+ <b>Formação de Nivelamento em IA</b>.
  <br><br>
 
 </div>
