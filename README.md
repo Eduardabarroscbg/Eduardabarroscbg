@@ -20,12 +20,12 @@
 </div>
 
 <p align="left">
-  🌍 Sou da Paraíba, Brasil<br>
-  🎓 Estudante de Ciência da Computação (7º período)<br>
-  ⚡ Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web, Software e Dados<br>
-  🎯 Foco em JavaScript, TypeScript, React, Python e Dados<br>
-  📊 Aprofundando conhecimentos em Dados e Inteligência Artificial<br>
-  ✨ Criando projetos para aprimorar minhas habilidades
+  • Sou da Paraíba, Brasil<br>
+  • Estudante de Ciência da Computação (7º período)<br>
+  • Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web, Software e Dados<br>
+  • Foco em JavaScript, TypeScript, React, Python e Dados<br>
+  • Aprofundando conhecimentos em Dados e Inteligência Artificial<br>
+  • Criando projetos para aprimorar minhas habilidades
 </p>
 
 <h3 align="left">Tech Stack</h3>
@@ -78,7 +78,7 @@
 
 <div align="left">
 
- 🔦 <b>Ciclo Preparatório — Programa Lighthouse</b><br>
+ 💙 <b>Ciclo Preparatório — Programa Lighthouse</b><br>
  Estou no Ciclo Preparatório do Lighthouse, a etapa inicial do programa. Ao longo dos módulos venho estudando
  lógica de programação e Python, banco de dados relacional e SQL, controle de versão com Git, IA generativa,
  fundamentos de cloud computing, engenharia de dados (pipelines, ETL/ELT, arquitetura medalhão) e gestão de
@@ -86,19 +86,19 @@
  anotações e exercícios de cada módulo à medida que avanço.
  <br><br>
 
- 🚀 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
- Assinante do plano Rocketseat ONE, com acesso a todas as formações e ao conteúdo contínuo da plataforma. Atualmente estou cursando a
- <b>Formação em Data Analytics</b>, aprendendo a coletar, tratar e analisar dados com Python e SQL,
- além de fundamentos de estatística e visualização de dados.
- <br><br>
-
- 🤖 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
+ 🧡 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
  Sou aluna do ONE, programa criado pela Oracle em parceria com a Alura, e ingressei através da MCIO,
  associação que impulsiona a presença feminina na tecnologia.<br>
  Estou no Tech AI Builder, segunda fase do programa, que reúne 5 formações focadas em Inteligência Artificial e Cloud
  (Desenvolvimento e Orquestração com IA Generativa, Engenharia de Agentes e Automação com IA, Inteligência de Dados
  e RAG Avançado, Oracle Cloud Infrastructure e Formação de Nivelamento em IA). Estou começando pela
  <b>Formação de Nivelamento em IA</b>.
+ <br><br>
+
+ 💜 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
+ Assinante do plano Rocketseat ONE, com acesso a todas as formações e ao conteúdo contínuo da plataforma. Atualmente estou cursando a
+ <b>Formação em Data Analytics</b>, aprendendo a coletar, tratar e analisar dados com Python e SQL,
+ além de fundamentos de estatística e visualização de dados.
  <br><br>
 
 </div>
