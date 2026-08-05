@@ -86,7 +86,7 @@
  anotações e exercícios de cada módulo à medida que avanço.
  <br><br>
 
- 🧡 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
+🧡 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
  Sou aluna do ONE, programa criado pela Oracle em parceria com a Alura, e ingressei através da MCIO,
  associação que impulsiona a presença feminina na tecnologia.<br>
  Estou no Tech AI Builder, segunda fase do programa, que reúne 5 formações focadas em Inteligência Artificial e Cloud
