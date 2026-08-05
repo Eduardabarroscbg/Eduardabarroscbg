@@ -64,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="35" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
 </div>
 
 <h3 align="left">Repositório de Projetos</h3>
@@ -94,27 +92,14 @@
  com acesso a formações completas em programação e Inteligência Artificial.
  <br><br>
 
- 🤖 <b>ONE AI for Tech — Tech AI Builder (Rocketseat)</b><br>
- Começando pela <b>Formação de Nivelamento em IA</b> e seguindo para <b>Inteligência de Dados e RAG Avançado</b>,
- dentro do Tech AI Builder, programa que reúne formações em Inteligência Artificial e Cloud.
+ 🤖 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
+ Sou aluna do ONE, programa criado pela Oracle em parceria com a Alura, e ingressei através da MCIO,
+ associação que impulsiona a presença feminina na tecnologia.<br>
+ Estou no Tech AI Builder, segunda fase do programa, que reúne 5 formações focadas em Inteligência Artificial e Cloud
+ (Desenvolvimento e Orquestração com IA Generativa, Engenharia de Agentes e Automação com IA, Inteligência de Dados
+ e RAG Avançado, Oracle Cloud Infrastructure e Formação de Nivelamento em IA). Não há ordem obrigatória entre elas,
+ então estou começando pela <b>Formação de Nivelamento em IA</b> e seguindo para <b>Inteligência de Dados e RAG Avançado</b>.
  <br><br>
-
- 💜 <b>Programa MCIO</b><br>
- Ingressei no ONE AI for Tech por meio da parceria entre a Rocketseat e a MCIO,
- associação que impulsiona a presença feminina na tecnologia.
- <br><br>
-
- 💚 <b>Elas+ Tech — Ada Tech</b><br>
- Programa exclusivo para mulheres, selecionado entre os projetos piloto do
- <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
- em parceria com a Artemisia.
- Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
- <br>
-
- Após a aprovação, iniciei a trilha de <b>Front-end</b>, estudando:<br>
- • HTML, CSS, Git e versionamento, Lógica de Programação com JavaScript,
- Desenvolvimento Web com JavaScript, React e Figma para Devs.
- <br>
 
 </div>
 
