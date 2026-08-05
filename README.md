@@ -22,7 +22,7 @@
 <p align="left">
   • Sou da Paraíba, Brasil<br>
   • Estudante de Ciência da Computação (7º período)<br>
-  • Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web, Software e Dados<br>
+  • Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web, Software, Dados e IA<br>
   • Foco em JavaScript, TypeScript, React, Python e Dados<br>
   • Aprofundando conhecimentos em Dados e Inteligência Artificial<br>
   • Criando projetos para aprimorar minhas habilidades
