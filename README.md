@@ -78,11 +78,12 @@
 
 <div align="left">
 
- 🔦 <b>Ciclo Preparatório — Programa Lighthouse (Indicium AI)</b><br>
-  voltado para quem quer começar carreira em Dados, IA ou negócios. Estou no Ciclo Preparatório, 
- etapa inicial gratuita e ao vivo, com aulas e quizzes cobrindo SQL, Python,
- lógica analítica, engenharia de dados, Inteligência Artificial e IA generativa — a base para avançar para a
- Jornada Técnica remunerada do programa.
+ 🔦 <b>Ciclo Preparatório — Programa Lighthouse</b><br>
+ Estou no Ciclo Preparatório do Lighthouse, a etapa inicial do programa. Ao longo dos módulos venho estudando
+ lógica de programação e Python, banco de dados relacional e SQL, controle de versão com Git, IA generativa,
+ fundamentos de cloud computing, engenharia de dados (pipelines, ETL/ELT, arquitetura medalhão) e gestão de
+ projetos de dados, além de uma trilha de soft skills e preparação para entrevistas. Estou documentando minhas
+ anotações e exercícios de cada módulo à medida que avanço.
  <br><br>
 
  🚀 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
