@@ -83,7 +83,7 @@
  etapa inicial gratuita e ao vivo, com aulas e quizzes cobrindo SQL, Python,
  lógica analítica, engenharia de dados, Inteligência Artificial e IA generativa — a base para avançar para a
  Jornada Técnica remunerada do programa.
- <br><br>.
+ <br><br>
 
  🚀 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
  Assinante do plano Rocketseat ONE, com acesso a todas as formações e ao conteúdo contínuo da plataforma. Atualmente estou cursando a
