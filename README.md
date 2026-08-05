@@ -23,7 +23,8 @@
   🌍 Sou da Paraíba, Brasil<br>
   🎓 Estudante de Ciência da Computação (7º período)<br>
   ⚡ Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web e Software<br>
-  🎯 Foco em HTML, CSS, JavaScript, TypeScript e React<br>
+  🎯 Foco em HTML, CSS, JavaScript, TypeScript, React e Python<br>
+  📊 Aprofundando conhecimentos em Dados e Inteligência Artificial<br>
   ✨ Criando projetos para aprimorar minhas habilidades
 </p>
 
@@ -52,21 +53,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="35" />
   <img width="12" />
-  
+
   <a href="https://gitlab.com/eduarda10.barros" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" />
   </a>
-  
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="35" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
 </div>
 
 <h3 align="left">Repositório de Projetos</h3>
 <p align="left">
  <b>Fullstack</b> — Interfaces modernas utilizando HTML, CSS, JavaScript, React e Tailwind CSS<br>
  <b>Next.js</b> — Projetos com foco em performance, componentização e boas práticas<br>
+ <b>Dados & IA</b> — Análise e engenharia de dados com Python e SQL, além de experimentações com Inteligência Artificial<br>
  <b>Design / UI</b> — Protótipos e layouts criados no Figma<br>
  <b>APIs & Testes</b> — Consumo e testes de APIs usando Postman<br>
  <b>Organização e Fluxo</b> — Boards, planejamentos e documentação no Trello e Notion<br>
@@ -77,10 +83,31 @@
 <p align="left">Atualmente faço parte dos seguintes programas de capacitação:</p>
 
 <div align="left">
+
+ 🔦 <b>Ciclo Preparatório — Programa Lighthouse (Indicium AI)</b><br>
+ Estou no ciclo preparatório do Lighthouse, programa de formação em Dados e Inteligência Artificial da Indicium AI,
+ com conteúdos em SQL, Python, lógica analítica, engenharia de dados e IA generativa.
+ <br><br>
+
+ 🚀 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
+ Assinante do plano <a href="https://www.linkedin.com/in/eduarda-barroscb/details/education/edit/forms/1217716439/">Rocketseat ONE</a>,
+ com acesso a formações completas em programação e Inteligência Artificial.
+ <br><br>
+
+ 🤖 <b>ONE AI for Tech — Tech AI Builder (Rocketseat)</b><br>
+ Começando pela <b>Formação de Nivelamento em IA</b> e seguindo para <b>Inteligência de Dados e RAG Avançado</b>,
+ dentro do Tech AI Builder, programa que reúne formações em Inteligência Artificial e Cloud.
+ <br><br>
+
+ 💜 <b>Programa MCIO</b><br>
+ Ingressei no ONE AI for Tech por meio da parceria entre a Rocketseat e a MCIO,
+ associação que impulsiona a presença feminina na tecnologia.
+ <br><br>
+
  💚 <b>Elas+ Tech — Ada Tech</b><br>
  Programa exclusivo para mulheres, selecionado entre os projetos piloto do
  <b>Caixa: Desafio Mulheres em STEM</b>, apoiado pelo Fundo Socioambiental CAIXA
- em parceria com a Artemisia.  
+ em parceria com a Artemisia.
  Foi um processo seletivo concorrido, com mais de <b>6.500 inscrições</b>, e incluía:
  <br>
 
@@ -93,10 +120,7 @@
 
 <p align="left">
   Sempre em busca de novos desafios para evoluir como desenvolvedora e construir
-  uma trajetória sólida na área de tecnologia.
+  uma trajetória sólida na área de tecnologia e dados.
 </p>
-
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
