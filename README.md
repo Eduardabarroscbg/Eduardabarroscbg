@@ -22,8 +22,8 @@
 <p align="left">
   🌍 Sou da Paraíba, Brasil<br>
   🎓 Estudante de Ciência da Computação (7º período)<br>
-  ⚡ Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web e Software<br>
-  🎯 Foco em HTML, CSS, JavaScript, TypeScript, React e Python<br>
+  ⚡ Desenvolvedora Fullstack em formação, com interesse em Desenvolvimento Web, Software e Dados<br>
+  🎯 Foco em JavaScript, TypeScript, React, Python e Dados<br>
   📊 Aprofundando conhecimentos em Dados e Inteligência Artificial<br>
   ✨ Criando projetos para aprimorar minhas habilidades
 </p>
@@ -32,10 +32,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
   <img width="12" />
@@ -91,8 +87,7 @@
  <br><br>
 
  🚀 <b>Rocketseat ONE — Formação Contínua em Desenvolvimento de Software</b><br>
- Assinante do plano <a href="https://www.linkedin.com/in/eduarda-barroscb/details/education/edit/forms/1217716439/">Rocketseat ONE</a>,
- com acesso a todas as formações e ao conteúdo contínuo da plataforma. Atualmente estou cursando a
+ Assinante do plano Rocketseat ONE, com acesso a todas as formações e ao conteúdo contínuo da plataforma. Atualmente estou cursando a
  <b>Formação em Data Analytics</b>, aprendendo a coletar, tratar e analisar dados com Python e SQL,
  além de fundamentos de estatística e visualização de dados.
  <br><br>
