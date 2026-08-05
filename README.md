@@ -80,8 +80,8 @@
 
  🔦 <b>Ciclo Preparatório — Programa Lighthouse (Indicium AI)</b><br>
  O Lighthouse é o programa trainee remunerado da Indicium AI, uma das maiores empresas de dados e IA do mundo,
- voltado para quem quer começar carreira em Dados, IA ou negócios. Metade das vagas é reservada para mulheres.
- Estou no Ciclo Preparatório, etapa inicial gratuita e ao vivo, com aulas e quizzes cobrindo SQL, Python,
+ voltado para quem quer começar carreira em Dados, IA ou negócios. Estou no Ciclo Preparatório, 
+ etapa inicial gratuita e ao vivo, com aulas e quizzes cobrindo SQL, Python,
  lógica analítica, engenharia de dados, Inteligência Artificial e IA generativa — a base para avançar para a
  Jornada Técnica remunerada do programa.
  <br><br>
