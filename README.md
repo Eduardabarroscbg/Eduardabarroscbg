@@ -78,8 +78,6 @@
 
 <div align="left">
 
- <br><br>
-
 🧡 <b>ONE AI for Tech — Tech AI Builder (Oracle + Alura)</b><br>
  Sou aluna do ONE, programa criado pela Oracle em parceria com a Alura, e ingressei através da MCIO,
  associação que impulsiona a presença feminina na tecnologia.<br>
